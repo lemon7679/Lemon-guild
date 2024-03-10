@@ -1,0 +1,33 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "길드 애드온",
+		"description": "by Lemon7679 ( kakao : open.kakao.com/me/lemon7679 ) §l§c* 무단 배포, 복제, 수정를 금합니다§r",
+		"uuid": "d3195246-affa-4f4a-bfc0-fdb1ed289072",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 20, 0 ]
+	},
+	"modules": [
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "1265f19c-a8af-453f-85bc-343438c6f7a0",
+			"entry": "scripts/main.js",
+			"version": [ 1, 0, 0 ]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.9.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.2.0-beta"
+		}
+	]
+}
