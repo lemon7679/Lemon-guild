@@ -8,7 +8,7 @@ This addon adds guild functionality to Minecraft.<br>
 
 ## How to load
 
-Download the latest release from Releases.<br>
+Download the [latest release](https://github.com/lemon7679/Lemon-guild/releases/latest) from [Releases](https://github.com/lemon7679/Lemon-guild/releases).<br>
 After downloading, load it into Minecraft.<br>
 Activate the experimental "Holiday Creator Features" and "Beta APIs" in world settings.<br>
 

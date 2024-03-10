@@ -9,7 +9,7 @@ Lemon guild는 마인크래프트 베드락 에디션의 애드온입니다.<br>
 
 ## 적용법
 
-릴리스에서 최신 릴리스를 다운로드하세요.<br>
+[릴리스](https://github.com/lemon7679/Lemon-guild/releases)에서 [최신 릴리스](https://github.com/lemon7679/Lemon-guild/releases/latest)를 다운로드하세요.<br>
 다운로드한 후 Minecraft에 로드하세요.<br>
 월드 설정에서 실험적인 "홀리데이 크리에이터 기능"과 "베타 API"를 활성화하세요.<br>
 
@@ -27,4 +27,4 @@ Lemon guild는 마인크래프트 베드락 에디션의 애드온입니다.<br>
 ## 언어
 
 [english](./README.md)<br>
-[한국어](./README(kr).md)<br>
+[한국어](<./README(kr).md>)<br>
