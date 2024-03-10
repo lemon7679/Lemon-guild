@@ -2,9 +2,10 @@
 
 Lemon guild is an addon for Minecraft Bedrock Edition.<br>
 This addon adds guild functionality to Minecraft.<br>
+
 ## business site
 
-[namhwa](www.namhwa.kr)
+[namhwa](https://www.namhwa.kr)
 
 ## How to load
 

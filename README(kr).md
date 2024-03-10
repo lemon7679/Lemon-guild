@@ -5,7 +5,7 @@ Lemon guild는 마인크래프트 베드락 에디션의 애드온입니다.<br>
 
 ## 비즈니스 사이트
 
-[namhwa](www.namhwa.kr)
+[namhwa](https://www.namhwa.kr)
 
 ## 적용법
 
