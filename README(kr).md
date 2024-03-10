@@ -16,7 +16,7 @@ Lemon guild는 마인크래프트 베드락 에디션의 애드온입니다.<br>
 ## 사용법
 
 크리에이티브 인벤토리 하단에 있는 ["길드"](./items/guild_ui_open_item.json) 아이템을 꺼냅니다.<br>
-(또는 /give @s Lemon:guild_ui_open_item으로 꺼낼 수 있습니다)<br>
+(또는 ```/give @s Lemon:guild_ui_open_item```으로 꺼낼 수 있습니다)<br>
 ["길드"](./items/guild_ui_open_item.json) 아이템을 사용하면 사용자 인터페이스가 나타납니다.<br>
 
 ## 라이센스⚖

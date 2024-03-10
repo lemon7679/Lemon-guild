@@ -16,7 +16,7 @@ Activate the experimental "Holiday Creator Features" and "Beta APIs" in world se
 ## How to use
 
 Take out the ["길드"](./items/guild_ui_open_item.json) item at the bottom of your creative inventory.<br>
-(or you can take it out with /give @s lemon:guild_ui_open_item)<br>
+(or you can take it out with ```/give @s lemon:guild_ui_open_item```)<br>
 When you use the ["길드"](./items/guild_ui_open_item.json) item, a User Interface will appear.<br>
 
 ## License⚖
