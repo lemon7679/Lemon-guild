@@ -7,7 +7,7 @@ This addon adds guild functionality to Minecraft.<br>
 
 Download the latest release from Releases.<br>
 After downloading, load it into Minecraft.<br>
-Activate the experimental holiday creator function and beta API function in world settings.<br>
+Activate the experimental "Holiday Creator Features" and "Beta APIs" in world settings.<br>
 
 ## How to use
 
@@ -23,4 +23,4 @@ This add-on uses the CC-BY-NC-ND license.<br>
 ## language
 
 [english](./README.md)<br>
-[한국어](./README(kr).md)<br>
+[한국어](<./README(kr).md>)<br>
