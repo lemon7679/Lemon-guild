@@ -2,6 +2,9 @@
 
 Lemon guild is an addon for Minecraft Bedrock Edition.<br>
 This addon adds guild functionality to Minecraft.<br>
+## business site
+
+[namhwa](www.namhwa.kr)
 
 ## How to load
 
@@ -15,7 +18,7 @@ Take out the ["길드"](./items/guild_ui_open_item.json) item at the bottom of y
 (or you can take it out with /give @s lemon:guild_ui_open_item)<br>
 When you use the ["길드"](./items/guild_ui_open_item.json) item, a User Interface will appear.<br>
 
-## License
+## License⚖
 
 This add-on uses the CC-BY-NC-ND license.<br>
 (Please refer to [LICENSE](./LICENSE) for details.)<br>
