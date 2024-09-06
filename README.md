@@ -5,8 +5,6 @@ This addon adds guild functionality to Minecraft.<br>
 
 ## business site
 
-[namhwa](https://www.namhwa.kr)
-
 ## How to load
 
 Download the [latest release](https://github.com/lemon7679/Lemon-guild/releases/latest) from [Releases](https://github.com/lemon7679/Lemon-guild/releases).<br>
