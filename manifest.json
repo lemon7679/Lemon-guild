@@ -4,7 +4,7 @@
 		"name": "Lemon guild",
 		"description": "by Lemon7679 ( kakao : open.kakao.com/me/lemon7679 ) §l§c* 무단 배포, 복제, 수정를 금합니다§r",
 		"uuid": "d3195246-affa-4f4a-bfc0-fdb1ed289072",
-		"version": [ 1, 2, 1 ],
+		"version": [ 1, 3, 0 ],
 		"min_engine_version": [ 1, 20, 0 ]
 	},
 	"modules": [
@@ -19,7 +19,7 @@
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "1.15.0-beta"
+			"version": "1.16.0-beta"
 		},
 		{
 			"module_name": "@minecraft/server-ui",
